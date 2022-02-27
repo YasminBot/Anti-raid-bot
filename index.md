@@ -43,7 +43,7 @@ Prefixo: -
 
   <div class="botao">
 <a href="https://www.youtube.com/watch?v=6zNKtUXILx4">
-   <button class="btn" onclick="alert('Você clicou!')">
+   <button class="btn" onclick>
       
     Me adicione!
 
