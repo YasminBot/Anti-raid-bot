@@ -23,7 +23,7 @@
     <title>Botão Massa</title>
 </head>
 <body>
-     <h1>Oii!! Me chamo Yasmin e criei um bot anti-raid para o discord, exclusivamente feito para prevenir raids no discord.</h1>
+     <h1>Oii!! Me chamo Yasmin e criei um bot anti-raid para o discord, exclusivamente feito para prevenir raids no discord ❤️❤️.</h1>
 
 YasminBot - O bot anti-raid 
 Prefixo: -
