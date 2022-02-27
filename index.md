@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="botaomassacss.css">
+    <link rel="shortcut icon" type="img/x-icon" href="favicon (1).ico">
 
-You can use the [editor on GitHub](https://github.com/YasminBot/Anti-raid-bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<style>
 
-### Markdown
+ .btn:hover{
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   background: transparent;
+   color: #00ffcb;
+   transform: scale(1.5) rotate(360deg);
+   box-shadow: 0 0 60px;
+   cursor: grab;
+   border: 2px solid #00ffcb;
 
-```markdown
-Syntax highlighted code block
+ }
 
-# Header 1
-## Header 2
-### Header 3
+</style>
+    <title>Botão Massa</title>
+</head>
+<body>
+     <h1>Oii!! Me chamo Yasmin e criei um bot anti-raid para o discord, exclusivamente feito para previnir raids no discord.</h1>
 
-- Bulleted
-- List
+YasminBot - O bot anti-raid 
 
-1. Numbered
-2. List
+<br>O que o bot de anti-raid é capaz de fazer além de previnir raids:
 
-**Bold** and _Italic_ and `Code` text
+<br>✔️Tocar música na call.
+<br>✔️Avisar/Expulsar/Banir qualquer um que falar uma palavra feia (você quem decide quais são as palavras que não podem ser ditas).
+<br>✔️Capaz de anúnciar vídeos do youtube ou live (Você também decide se quer essa opção ativa e qual canal será divulgado).
+<br>✔️Sempre que um membro entrar no grupo, ele será avisado das regras no privado (Desde que haja algum chat de regras).
+<br>✔️Se começar alguma briga no chat você pode usar o comando ( "-analisar", o bot fará uma leitura no chat e vai banir alguém que não estiver seguindo as regras ou estiver fazendo algo de errado).
+<br>
+<h1>Espero que tenha se interessado com as funções do bot!!</h1>
+<hr>
+<br><h2>Me coloque no seu grupo!</h2>
+<i>(Clique aqui)</i>
 
-[Link](url) and ![Image](src)
-```
+  <div class="botao">
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+   <button class="btn" onclick="alert('Você clicou!')">
+      
+    Me adicione!
 
-### Jekyll Themes
+   </button>
+  
+</div>
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YasminBot/Anti-raid-bot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
