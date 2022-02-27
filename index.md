@@ -41,8 +41,8 @@ YasminBot - O bot anti-raid
 <i>(Clique aqui)</i>
 
   <div class="botao">
-
-   <button class="btn" onclick="alert('Você clicou!')">
+<a href="https://www.youtube.com/watch?v=6zNKtUXILx4">
+   <button class="btn" 
       
     Me adicione!
 
@@ -52,4 +52,4 @@ YasminBot - O bot anti-raid
  
 
 </body>
-</html>
+
