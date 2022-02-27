@@ -39,18 +39,13 @@ Prefixo: -
 <h1>Espero que tenha se interessado com as funções do bot!!</h1>
 <hr>
 <br><h2>Me coloque no seu grupo!</h2>
-<i>(Clique aqui)</i>
 
   <div class="botao">
 <a href="https://www.youtube.com/watch?v=6zNKtUXILx4">
-   <button class="btn" onclick>
+   <button class="btn" align="center" onclick>
       
     Me adicione!
 
    </button>
   
-</div>
- 
-
-</body>
 
